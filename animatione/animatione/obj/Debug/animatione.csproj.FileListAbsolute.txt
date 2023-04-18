@@ -1,0 +1,11 @@
+C:\Users\iulia\OneDrive\Desktop\lab_poo\animatione\animatione\bin\Debug\animatione.exe.config
+C:\Users\iulia\OneDrive\Desktop\lab_poo\animatione\animatione\bin\Debug\animatione.exe
+C:\Users\iulia\OneDrive\Desktop\lab_poo\animatione\animatione\bin\Debug\animatione.pdb
+C:\Users\iulia\OneDrive\Desktop\lab_poo\animatione\animatione\obj\Debug\animatione.csproj.AssemblyReference.cache
+C:\Users\iulia\OneDrive\Desktop\lab_poo\animatione\animatione\obj\Debug\animatione.csproj.SuggestedBindingRedirects.cache
+C:\Users\iulia\OneDrive\Desktop\lab_poo\animatione\animatione\obj\Debug\animatione.Form1.resources
+C:\Users\iulia\OneDrive\Desktop\lab_poo\animatione\animatione\obj\Debug\animatione.Properties.Resources.resources
+C:\Users\iulia\OneDrive\Desktop\lab_poo\animatione\animatione\obj\Debug\animatione.csproj.GenerateResource.cache
+C:\Users\iulia\OneDrive\Desktop\lab_poo\animatione\animatione\obj\Debug\animatione.csproj.CoreCompileInputs.cache
+C:\Users\iulia\OneDrive\Desktop\lab_poo\animatione\animatione\obj\Debug\animatione.exe
+C:\Users\iulia\OneDrive\Desktop\lab_poo\animatione\animatione\obj\Debug\animatione.pdb
